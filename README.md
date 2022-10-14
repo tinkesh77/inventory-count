@@ -23,7 +23,8 @@ Ionic CLI - If you don't have the ionic CLI installed refer [official documentat
 4. Run following command to download dependencies
     `npm i`
 5. Create a `.env` file by taking reference from the `.env.example`.
-6. To run the app in browser use the command: `ionic serve`
+6. To run the app in browser use the command: `ionic serve`(if ionic serve not installed them Install by commmad npm install -g @ionic/cli )
+
 
 ## Firebase Hosting
 
